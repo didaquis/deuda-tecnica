@@ -24,7 +24,7 @@ Algunos de los principales motivos por los cuales se origina la deuda técnica:
 
 ### ¿Qué va a pasar con la deuda técnica?
 La deuda técnica se comporta exactamente como una deuda financiera. No desaparece, tiende a incrementarse con el paso del tiempo, y sus consecuencias pueden ser insostenibles a largo plazo.  
-Es importante que el equipo de desarrollo sepa trasladar este concepto a la gente de producto/negocio.    
+Es importante que el equipo de desarrollo sepa trasladar este concepto a la gente de producto/negocio.  
 
 Como cualquier otra deuda, alguien va a pagar por ella de manera consciente o inconsciente.  
 
