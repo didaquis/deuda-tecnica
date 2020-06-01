@@ -8,6 +8,7 @@ Este repositorio contiene algunas reflexiones alrededor de la deuda técnica.
 ### ¿Qué es?
 La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. Es el sobre esfuerzo a pagar para mantener un producto software mal hecho.  
 
+
 ### ¿Cómo se origina?
 Algunos de los principales motivos por los cuales se origina la deuda técnica:  
 * Excesiva presión con las fechas
@@ -17,11 +18,14 @@ Algunos de los principales motivos por los cuales se origina la deuda técnica:
 * Errores de diseño
 * Roadmap indeciso (cambios de opinión, idas y venidas de concepción de producto)
 * Software que no ha recibido mantenimiento periódico y ha envejecido de manera desatendida
+* Falta de documentación
+
 
 ### La deuda técnica como herramienta a nuestro favor
 La deuda técnica puede ser intencionada en algunos casos. Por ejemplo, una startup podría estar interesada en salir a mercado lo antes posible y/o evaluar la viavilidad económica de un proyecto. Para lograrlo, conscientemente puede "comprar" deuda y dejarla a deber para cuando el modelo de negocio esté validado.  
 Una empresa convencional puede estar en el mismo supuesto cuando trata de crear un nuevo producto. Es posible que para conseguir las primeras ventas recurran a la deuda técnica y cuando llegue el momento de escalar, el software no pueda hacerlo.  
 En estos casos, la deuda técnica es una herramienta que las empresas utilizar a su favor. Sin embargo, la deuda va a estar ahí y la empresa tarde o temprano va a tener que lidiar con ella.  
+
 
 ### ¿Qué va a pasar con la deuda técnica?
 La deuda técnica se comporta exactamente como una deuda financiera. No desaparece, tiende a incrementarse con el paso del tiempo, y sus consecuencias pueden ser insostenibles.    
@@ -37,8 +41,6 @@ Las diferentes maneras de pagar una deuda técnica (el pago puede ser consciente
 * Deuda funcional
 * Gran cantidad de bugs. Al ponerlo en producción de manera masiva aparecen multitud de bugs.
 * Imposibilidad de escalar. Rendimiento y problemas de infraestructura. Por ejemplo, base de datos que se ralentizan. Servidores caídos.
-
-
 
 
 ### ¿Cómo lo arreglamos?
