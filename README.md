@@ -48,9 +48,11 @@ Suele ser recomendable pagarla cuanto antes, ya que tiende a incrementarse con e
 
 Es más costo-eficiente pagar la deuda técnica de aquellas partes del código que mutan frecuentemente.  
 
+Debemos valorar el impacto que tiene a nivel de negocio esa deuda técnica para tomar las decisiones correctas al enfrentarse a ella.  
+
 La deuda técnica se puede medir mediante algunas técnicas/herramientas. Por tanto, lo ideal es hacer un seguimiento empírico de su evolución.  
 
-> Un apunte: No todo es blanco y negro! Hay que tener en cuenta, que casi todos los proyectos tienen algo de deuda técnica. Y no hay ningún problema con ello mientras la deuda técnica sea relativamente baja. 
+> 🔔 **Un apunte**: No todo es blanco y negro! Hay que tener en cuenta, que casi todos los proyectos tienen algo de deuda técnica. Y no hay ningún problema con ello mientras la deuda técnica sea relativamente baja. 
 La deuda técnica se convierte en un problema cuando su volumen es considerable.  
 
 
