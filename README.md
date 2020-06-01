@@ -55,9 +55,9 @@ La deuda técnica se convierte en un problema cuando su volumen es considerable.
 
 
 
-### La deuda técnica como herramienta a nuestro favor
+### La deuda técnica como herramienta a nuestro favor ⚠️
 La deuda técnica puede ser intencionada en algunos casos. Por ejemplo, una startup podría estar interesada en salir a mercado lo antes posible y/o evaluar la viavilidad económica de un proyecto. Para lograrlo, conscientemente puede "comprar" deuda y dejarla a deber para cuando el modelo de negocio esté validado.   
 Una empresa convencional puede estar en el mismo supuesto cuando trata de crear un nuevo producto. Es posible que para conseguir las primeras ventas y ganar los primeros clientes recurran a la deuda técnica dejando a deber la deuda.  
 
-En estos casos, la deuda técnica es una herramienta que las empresas utilizar a su favor. Sin embargo, la deuda va a estar ahí y la empresa tarde o temprano va a tener que lidiar con ella.  
+En estos casos, la deuda técnica es una herramienta que las empresas utilizar a su favor. Sin embargo, la deuda va a estar ahí y la empresa tarde o temprano va a tener que lidiar con ella. Será crucial que la empresa no haga oídos sordos al pago de la deuda técnica en el futuro.  
 
