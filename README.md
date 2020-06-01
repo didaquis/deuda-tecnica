@@ -16,16 +16,17 @@ Algunos de los principales motivos por los cuales se origina la deuda técnica:
 * Excesiva presión con las fechas de entrega
 * Falta de cuidado/educación/implicación (malas prácticas durante el desarrollo del software, baja calidad del software)
 * Inexistencia de la verificación de la calidad del software desarrollado
-* Developers con conocimientos técnicos insuficientes
+* Developers con conocimientos técnicos o de producto insuficientes
 * Errores de diseño (funcionales o no funcionales)
 * Roadmap indeciso (cambios de opinión, idas y venidas de concepción de producto)
 * Software que no ha recibido mantenimiento periódico y ha envejecido de manera desatendida
 
 
 ### ¿Qué va a pasar con la deuda técnica?
-La deuda técnica se comporta exactamente como una deuda financiera. No desaparece, tiende a incrementarse con el paso del tiempo, y sus consecuencias pueden ser insostenibles a largo plazo.    
+La deuda técnica se comporta exactamente como una deuda financiera. No desaparece, tiende a incrementarse con el paso del tiempo, y sus consecuencias pueden ser insostenibles a largo plazo.  
+Es importante que el equipo de desarrollo sepa trasladar este concepto a la gente de producto/negocio.    
 
-Como cualquier otra deuda, alguien va a pagar por ella de manera consciente o inconsciente. 
+Como cualquier otra deuda, alguien va a pagar por ella de manera consciente o inconsciente.  
 
 
 Las diferentes maneras de pagar una deuda técnica (el pago puede ser consciente o inconsciente) y/o como se manifiesta:
