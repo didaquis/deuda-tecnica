@@ -6,7 +6,9 @@ Este repositorio contiene algunas reflexiones alrededor de la deuda técnica.
 -------- 
 
 ### ¿Qué es?
-La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. Es el sobre esfuerzo a pagar para mantener un producto de software mal hecho.  
+La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. Es el sobre esfuerzo a pagar para mantener un producto de software mal hecho. 
+
+Una deuda técnica elevada es un riesgo de negocio.  
 
 
 ### ¿Cómo se origina?
