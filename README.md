@@ -1,15 +1,16 @@
 # Deuda técnica
 
-Este repositorio contiene algunas reflexiones alrededor de la deuda técnica.  
-
+Este repositorio contiene algunas reflexiones alrededor del concepto "deuda técnica". Estas reflexiones son fruto de mi experiencia profesional.   
 
 -------- 
 
 ### ¿Qué es?
 La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. Es el sobre esfuerzo a pagar para mantener un producto de software de baja calidad. 
 
-Una deuda técnica elevada es un riesgo de negocio.  
+Una deuda técnica elevada, es un claro riesgo de negocio.  
 
+### ¿Por qué la terminología no es la más adecuada?
+Debemos de tener en cuenta que la deuda técnica, no es precisamente "técnica". En realida una terminología más adecuada sería "deuda de negocio" o "deuda de producto".
 
 ### ¿Cómo se origina?
 Algunos de los principales motivos por los cuales se origina la deuda técnica:  
