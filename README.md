@@ -5,7 +5,7 @@ Este repositorio contiene algunas reflexiones alrededor del concepto "deuda téc
 -------- 
 
 ### ¿Qué es?
-La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. Es el sobre esfuerzo a pagar cuando trabajamos con un producto de software de baja calidad. 
+La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. Es el sobresfuerzo a pagar cuando trabajamos con un producto de software de baja calidad. 
 
 Una deuda técnica elevada, es un claro riesgo de negocio.  
 
