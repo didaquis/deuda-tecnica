@@ -9,6 +9,7 @@ La deuda técnica es el coste y los intereses a pagar por hacer mal las cosas. E
 
 Una deuda técnica elevada, es un claro riesgo de negocio.
 
+![Technical debt - @vincentdnl](assets/technical-debt.webp)
 
 ### ¿Por qué la terminología no es adecuada?
 Debemos de tener en cuenta que la deuda técnica, no es precisamente "técnica". En realidad una terminología más adecuada sería "deuda de producto".
